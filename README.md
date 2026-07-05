@@ -2,7 +2,7 @@
 <h3 align="center">a.k.a. <a href="https://github.com/skesur">@skesur</a> — building things at the intersection of code and design</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web+Design+%2F+Development;AI+%2F+ML+Enthusiast;Currently+exploring+Data+Science;Always+down+to+collaborate+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web+Design+%2F+Development;AI+%2F+ML+Enthusiast;Currently+exploring+Data+Science;Always+down+to+collaborate" alt="Typing SVG" />
 </p>
 
 ---
