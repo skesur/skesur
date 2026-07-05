@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:00F7FF&height=200&section=header&text=Hey,%20I'm%20Saumya&fontSize=55&fontColor=00F7FF&fontAlignY=40&desc=a.k.a.%20%40skesur&descAlignY=60&descSize=20&descColor=BF5AF2&animation=fadeIn" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=48&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=70&lines=Hey%2C+I'm+Saumya" alt="Hey, I'm Saumya" />
 </p>
-
+<h3 align="center">a.k.a. <a href="https://github.com/skesur">@skesur</a>, building things at the intersection of code and design</h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web+Design+%2F+Development;AI+%2F+ML+Enthusiast;Currently+exploring+Data+Science;Always+down+to+collaborate" alt="Typing SVG" />
 </p>
