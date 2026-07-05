@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=48&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=70&lines=Hey%2C+I'm+Saumya" alt="Hey, I'm Saumya" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=48&duration=1&repeat=false&color=BF5AF2&center=true&vCenter=true&width=600&height=70&lines=Hey%2C+I'm+Saumya" alt="Hey, I'm Saumya" />
 </p>
 <h3 align="center">a.k.a. <a href="https://github.com/skesur">@skesur</a>, building things at the intersection of code and design</h3>
 <p align="center">
