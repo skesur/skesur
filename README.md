@@ -43,7 +43,7 @@
 ### Contribution Activities
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skesur&bg_color=0d1117&color=00f7ff&line=bf5af2&point=ffffff&area=true&area_color=bf5af2&title_color=00f7ff&hide_border=true" alt="Saumya's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skesur&bg_color=0d1117&color=00f7ff&line=bf5af2&point=ffffff&area=true&area_color=bf5af2&title_color=00f7ff&hide_border=true" alt="My Contribution Graph" />
 </p>
 
 ---
