@@ -1,5 +1,6 @@
-<h1 align="center">Hey, I'm Saumya</h1>
-<h3 align="center">a.k.a. <a href="https://github.com/skesur">@skesur</a>, building things at the intersection of code and design</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:00F7FF&height=200&section=header&text=Hey,%20I'm%20Saumya&fontSize=55&fontColor=00F7FF&fontAlignY=40&desc=a.k.a.%20%40skesur&descAlignY=60&descSize=20&descColor=BF5AF2&animation=fadeIn" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web+Design+%2F+Development;AI+%2F+ML+Enthusiast;Currently+exploring+Data+Science;Always+down+to+collaborate" alt="Typing SVG" />
@@ -8,7 +9,6 @@
 ---
 
 ### About Me
-
 -  CE student, currently deep in coursework spanning full-stack dev, algorithms, and machine learning
 -  Interested in **Web Design / Development** and **AI/ML**
 -  Currently learning **Web Development** and **Data Science**
@@ -36,6 +36,14 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,django,python,html,css,tailwind,threejs,git,github" />
+</p>
+
+---
+
+### `> activity.graph`
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skesur&bg_color=0d1117&color=00f7ff&line=bf5af2&point=ffffff&area=true&area_color=bf5af2&title_color=00f7ff&hide_border=true" alt="Saumya's Contribution Graph" />
 </p>
 
 ---
