@@ -13,7 +13,6 @@
 -  Interested in **Web Design / Development** and **AI/ML**
 -  Currently learning **Web Development** and **Data Science**
 -  Looking to collaborate on a **web design & development project**, think it'd be fun to build something together!
--  Fun fact: I designed a cyberpunk-themed e-commerce app (Frames) using React 18, Three.js, and GSAP
 
 ---
 
@@ -28,9 +27,9 @@
 
 ### Featured Project
 
-**[Frames](https://frames-taupe.vercel.app/)** : A cyberpunk-themed full-stack e-commerce app for eyewear, built with React 18, Vite, Tailwind CSS, Three.js, GSAP, and a Node/MongoDB backend.
+**[Frames](https://frames-taupe.vercel.app/)** : A Cyberpunk-themed full-stack e-commerce app for eyewear, built with React 18, Vite, Tailwind CSS, Three.js, GSAP, and a Node/MongoDB backend.
 
-**[Data_Comparator](https://data-comparator-1.onrender.com/)** : A cyberpunk-themed web application for interactive data cleaning, data visualization and automated machine learning model comparison, built with Django, vanilla JavaScript, Plotly.js, pandas, and scikit-learn.
+**[Data_Comparator](https://data-comparator-1.onrender.com/)** : A Cyberpunk-themed web application for interactive data cleaning, data visualization and automated machine learning model comparison, built with Django, vanilla JavaScript, Plotly.js, pandas, and scikit-learn.
 
 **[Resume_Comparator](https://resume-comparator.onrender.com/)** : An AI-powered resume matcher built with Django and TF-IDF. Analyzes skills, experience, projects, and education in a responsive Cyberpunk UI.
 
