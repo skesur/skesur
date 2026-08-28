@@ -28,7 +28,9 @@
 
 ### Featured Project
 
-**[Frames](https://frames-taupe.vercel.app/)** : a cyberpunk-themed full-stack e-commerce app for eyewear, built with React 18, Vite, Tailwind CSS, Three.js, GSAP, and a Node/MongoDB backend.
+**[Frames](https://frames-taupe.vercel.app/)** : A cyberpunk-themed full-stack e-commerce app for eyewear, built with React 18, Vite, Tailwind CSS, Three.js, GSAP, and a Node/MongoDB backend.
+
+**[Data_Comparator](https://data-comparator-1.onrender.com/)** : A cyberpunk-themed web application for interactive data cleaning and automated machine learning model comparison, built with Django, vanilla JavaScript, Plotly.js, pandas, and scikit-learn.
 
 ---
 
