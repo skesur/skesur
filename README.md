@@ -32,6 +32,9 @@
 
 **[Data_Comparator](https://data-comparator-1.onrender.com/)** : A cyberpunk-themed web application for interactive data cleaning, data visualization and automated machine learning model comparison, built with Django, vanilla JavaScript, Plotly.js, pandas, and scikit-learn.
 
+**[Resume_Comparator](https://resume-comparator.onrender.com/)** : An AI-powered resume matcher built with Django and TF-IDF. Analyzes skills, experience, projects, and education in a responsive Cyberpunk UI.
+
+
 ---
 
 ### Tech Stack
