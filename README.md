@@ -28,7 +28,7 @@
 
 ### Featured Project
 
-**[Frames](https://github.com/skesur/Frames)** : a cyberpunk-themed full-stack e-commerce app for eyewear, built with React 18, Vite, Tailwind CSS, Three.js, GSAP, and a Node/MongoDB backend.
+**[Frames](https://frames-taupe.vercel.app/)** : a cyberpunk-themed full-stack e-commerce app for eyewear, built with React 18, Vite, Tailwind CSS, Three.js, GSAP, and a Node/MongoDB backend.
 
 ---
 
