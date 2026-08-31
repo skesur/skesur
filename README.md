@@ -33,6 +33,8 @@
 
 **[Resume_Comparator](https://resume-comparator.onrender.com/)** : An AI-powered resume matcher built with Django and TF-IDF. Analyzes skills, experience, projects, and education in a responsive Cyberpunk UI.
 
+**[Document_RAG](https://document-rag-8s8g.onrender.com)** : An AI-powered document assistant built with Django, dense vector embeddings, and Groq LPU. Indexes PDFs, extracts semantic context, and delivers instant grounded answers in a responsive Cyberpunk UI.
+
 
 ---
 
